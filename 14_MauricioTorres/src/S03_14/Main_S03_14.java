@@ -8,7 +8,7 @@ package S03_14;
  *
  * @author USUARIO
  */
-public class Main_14 {
+public class Main_S03_14 {
 
     /**
      * @param args the command line arguments
