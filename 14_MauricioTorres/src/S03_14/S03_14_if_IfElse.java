@@ -17,7 +17,7 @@ public class S03_14_if_IfElse {
             System.out.println("ejecucion false");
         }
         
-      a= true;
+      
         if (b==10) {
             System.out.println("b vale 10");
         } else if(b==20) {
