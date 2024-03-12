@@ -8,16 +8,13 @@ package S03_14;
  *
  * @author USUARIO
  */
-public class Main_S03_14 {
+public class S03_14_For {
 
     
     public static void main(String[] args) {
-      
-        
-        
-        
-        
-        
+        for (int i = 0; i < 10; i++) {
+            System.out.println("ejemplo de numero " + i);
+        }
         
         
         

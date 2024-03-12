@@ -8,19 +8,19 @@ package S03_14;
  *
  * @author USUARIO
  */
-public class Main_S03_14 {
+public class S03_14_DoWhile {
 
-    
+  
     public static void main(String[] args) {
-      
-        
-        
-        
-        
-        
-        
-        
-        
+     //do = hacer
+     //while= mientras
+     
+     int a = 100;
+        do {            
+            System.out.println("hola");
+        } while (a == 200);
+
+
     }
     
 }

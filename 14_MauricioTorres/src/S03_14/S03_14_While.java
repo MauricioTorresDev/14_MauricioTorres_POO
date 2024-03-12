@@ -8,18 +8,15 @@ package S03_14;
  *
  * @author USUARIO
  */
-public class Main_S03_14 {
+public class S03_14_While {
 
-    
     public static void main(String[] args) {
       
-        
-        
-        
-        
-        
-        
-        
+        int a = 1;
+        while (a<10) {            
+            System.out.println("hola");
+             a++;   
+        }
         
     }
     
